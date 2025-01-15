@@ -21,7 +21,7 @@ X_scaled = scaler.fit_transform(X)
 X_train, X_test, y_train, y_test = train_test_split(X_scaled, y_encoded, test_size=0.2, random_state=42, shuffle=True)
 
 # Instantiate ALC and fit on training data
-alc = ALC(detoxification_cycles=500, detoxification_power=15)
+alc = ALC(detoxification_cycles = 500, detoxification_power = 15, lobules = 10)
 liver = alc.fit(X_train, y_train)
 
 # Predict on test data
