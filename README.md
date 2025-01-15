@@ -28,6 +28,7 @@ python main.py
 ```
 
 Cite as:
+
 Mahmood A. Jumaah, Yossra H. Ali, Tarik A. Rashid. 2025. Artificial Liver Classifier: A New Alternative to Conventional Machine Learning Models. DOI: https://doi.org/10.48550/arXiv.2501.08074
 
 Mahmood A. Jumaah, Yossra H. Ali, Tarik A. Rashid. 2024. Q-FOX Learning: Breaking Tradition in Reinforcement Learning. DOI: https://doi.org/10.48550/arXiv.2402.16562
