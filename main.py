@@ -1,3 +1,32 @@
+# -----------------------------------------------------------------------------
+# License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+# You are free to: Share — copy and redistribute the material in any medium or format
+#                  Adapt — remix, transform, and build upon the material for any purpose
+#                  The licensor cannot revoke these freedoms as long as you follow the license terms.
+#
+# Under the following terms:
+# Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. 
+# You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+#
+# Created by Mahmood A. Jumaah and Tarik A. Rashid
+#
+# Cite as:
+# 
+# Mahmood A. Jumaah, Yossra H. Ali, Tarik A. Rashid. 2025. Artificial Liver 
+# Classifier: A New Alternative to Conventional Machine Learning Models. 
+# DOI: https://doi.org/10.48550/arXiv.2501.08074
+# 
+# Mahmood A. Jumaah, Yossra H. Ali, Tarik A. Rashid. 2024. Q-FOX Learning: 
+# Breaking Tradition in Reinforcement Learning. DOI: https://doi.org/10.48550/arXiv.2402.16562
+# 
+# Mahmood A. Jumaah, Yossra H. Ali, Tarik A. Rashid, S. Vimal. 2024. FOXANN: 
+# A Method for Boosting Neural Network Performance. DOI: https://doi.org/10.48550/arXiv.2407.03369
+# -----------------------------------------------------------------------------
+
+
+
+
+
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 from sklearn.metrics import log_loss  # Import the log_loss function
