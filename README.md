@@ -34,3 +34,6 @@ Mahmood A. Jumaah, Yossra H. Ali, Tarik A. Rashid. 2025. Artificial Liver Classi
 Mahmood A. Jumaah, Yossra H. Ali, Tarik A. Rashid. 2024. Q-FOX Learning: Breaking Tradition in Reinforcement Learning. DOI: https://doi.org/10.48550/arXiv.2402.16562
 
 Mahmood A. Jumaah, Yossra H. Ali, Tarik A. Rashid, S. Vimal. 2024. FOXANN: A Method for Boosting Neural Network Performance. DOI: https://doi.org/10.48550/arXiv.2407.03369
+
+Mahmood A. Jumaah, Yossra H. Ali, Tarik A. Rashid, Efficient Q-learning hyperparameter tuning using FOX optimization algorithm, Results in Engineering, Volume 25, 2025, 104341, ISSN 2590-1230,
+https://doi.org/10.1016/j.rineng.2025.104341.
