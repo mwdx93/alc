@@ -58,7 +58,7 @@ class IFOX:
     def obj(self, sol):
         self.liver.set_weights(sol)
         pred = self.liver.reaction(self.X_train)
-        loss = cross_entropy_loss(self.y_train,pred)
+        loss = self.cross_entropy_loss(self.y_train,pred)
         return loss
         
     def optimize(self):
