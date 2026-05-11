@@ -28,12 +28,12 @@ python main.py
 ```
 
 Cite as:
+Jumaah MA, Ali YH, Rashid TA. Artificial liver classifier: A new alternative to conventional machine learning models. Frontiers in Artificial Intelligence. 2025 Aug 8;8:1639720. DOI: https://doi.org/10.48550/arXiv.2501.08074
 
-Mahmood A. Jumaah, Yossra H. Ali, Tarik A. Rashid. 2025. Artificial Liver Classifier: A New Alternative to Conventional Machine Learning Models. DOI: https://doi.org/10.48550/arXiv.2501.08074
+Jumaah MA, Ali YH, Rashid TA. 2024. Q-FOX Learning: QF-tuner: Breaking Tradition in Reinforcement Learning. DOI: https://doi.org/10.48550/arXiv.2402.16562
 
-Mahmood A. Jumaah, Yossra H. Ali, Tarik A. Rashid. 2024. Q-FOX Learning: Breaking Tradition in Reinforcement Learning. DOI: https://doi.org/10.48550/arXiv.2402.16562
+Jumaah MA, Ali YH, Rashid TA, Vimal S. FOXANN: A Method for Boosting Neural Network Performance. Journal of Soft Computing and Computer Applications. 2024;1(1):2.DOI: https://doi.org/10.48550/arXiv.2407.03369
 
-Mahmood A. Jumaah, Yossra H. Ali, Tarik A. Rashid, S. Vimal. 2024. FOXANN: A Method for Boosting Neural Network Performance. DOI: https://doi.org/10.48550/arXiv.2407.03369
+Jumaah MA, Ali YH, Rashid TA (2025) An improved FOX optimization algorithm using adaptive exploration and exploitation for global optimization. PLOS ONE 20(9): e0331965. DOI: https://doi.org/10.1371/journal.pone.0331965
 
-Mahmood A. Jumaah, Yossra H. Ali, Tarik A. Rashid, Efficient Q-learning hyperparameter tuning using FOX optimization algorithm, Results in Engineering, Volume 25, 2025, 104341, ISSN 2590-1230,
-https://doi.org/10.1016/j.rineng.2025.104341.
+Jumaah MA, Ali YH, Rashid TA. Efficient Q-learning hyperparameter tuning using FOX optimization algorithm. Results in Engineering. 2025 Mar 1;25:104341. DOI: https://doi.org/10.1016/j.rineng.2025.104341
